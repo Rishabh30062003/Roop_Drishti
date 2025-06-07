@@ -2,7 +2,7 @@
 
 **Real-Time Face Detection and Gender Classification using YOLOv12 and CNN**
 
-![project banner](https://img.shields.io/badge/Deep%20Learning-YOLOv12-blue?style=for-the-badge) ![license](https://img.shields.io/badge/License-MIT-green?style=for-the-badge) ![status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
+![project banner](https://img.shields.io/badge/Deep%20Learning-YOLOv12-blue?style=for-the-badge) ![status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
 
 ---
 
@@ -25,7 +25,7 @@
 - 🧠 Smart preprocessing with OpenCV for enhanced performance.
 - 📷 Live camera feed interface for practical deployment.
 
-**🔧 Installation & Setup**
+## **🔧 Installation & Setup**
 1. Clone the repository
 git clone https://github.com/your-username/Manochehra.git
 cd Manochehra
@@ -46,7 +46,7 @@ Place trained CNN model inside models/gender_classification/
 python webcam.py
 
 
-**🧪 Technologies Used**
+## **🧪 Technologies Used**
 Tool/Framework	Purpose
 Python	Programming Language
 OpenCV	Image Processing
@@ -57,45 +57,45 @@ HTML/CSS	Frontend
 NumPy	Numerical Operations
 Matplotlib/Seaborn	Data Visualization (Notebook)
 
-**📊 Model Performance**
+## **📊 Model Performance**
 🟢 Face Detection (YOLOv12)
 Precision: 92%
 Recall: 88%
 mAP@50: 95%
 
-**🟣 Gender Classification (CNN)**
+## **🟣 Gender Classification (CNN)**
 Accuracy: ~93% (after fine-tuning)
 Dataset: Combination of labeled public datasets for Male/Female
 Image size: 96x96 RGB
 
-**🖼️ Output Snapshots**
+## **🖼️ Output Snapshots**
 ![image](https://github.com/user-attachments/assets/c6eed5aa-7d33-44db-8ed1-c19446193ba2)
 ![Screenshot 2025-06-07 184447](https://github.com/user-attachments/assets/56b9ff74-3158-4d55-bcbd-33ab39039ca1)
 
-**📌 Applications**
+## **📌 Applications**
 👮‍♂️ Security Surveillance in public places
 🎤 Event Monitoring for demographic stats
 🏬 Retail Analytics in malls/stores
 🧪 Academic Research in computer vision
 
-**⚠️ Limitations**
+## **⚠️ Limitations**
 Struggles in extremely low-light or highly occluded conditions.
 Gender classification limited to binary labels.
 Requires GPU for real-time performance in large-scale environments.
 
-**💡 Future Enhancements**
+## **💡 Future Enhancements**
 🧓 Add Age Estimation model
 🌐 Deploy as a complete cloud-based API
 🕶️ Include face recognition (identity verification)
 📈 Real-time dashboard for analytics
 
-**🤝 Acknowledgements**
+## **🤝 Acknowledgements**
 YOLOv12 Official GitHub
 OpenCV
 Keras & TensorFlow
 Roboflow Dataset Platform
 
-**🧑‍💻 Author**
+## **🧑‍💻 Author**
 Rishabh Kumar
 B.Tech CSE (AI) Final Year
 📧 Email: rishabhkumarjajauli@gmail.com
