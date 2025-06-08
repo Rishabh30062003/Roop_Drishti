@@ -27,8 +27,8 @@
 
 ## **🔧 Installation & Setup**
 1. Clone the repository
-git clone https://github.com/your-username/Manochehra.git
-cd Manochehra
+git clone https://github.com/Rishabh30062003/Roop_Drishti.git
+cd Roop_Drishti
 
 2. Create a virtual environment (optional but recommended)
 python -m venv env
